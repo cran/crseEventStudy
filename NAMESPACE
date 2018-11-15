@@ -1,0 +1,10 @@
+#exportPattern("^[[:alpha:]]+")
+export(
+  "crseEvent",
+  "sar",
+  "asr")
+S3method(print, crse)
+S3method(summary, crse)
+import(methods)
+import(stats)
+importFrom(sandwich, vcovCL)
