@@ -1,4 +1,4 @@
-2227fce177da5c89083ba49ca7fbc1e2 *DESCRIPTION
+4a842eeb247ffea948cce6ef86a937df *DESCRIPTION
 850d4064aaacaea0c21d2587496aed91 *LICENSE
 66120ae431e27febd5d6e07eb38f0b51 *NAMESPACE
 fd27b3cbc290ab6e97b4984fe0cb8d46 *R/asr.R
@@ -6,13 +6,13 @@ f3881004eec8a4f8ceaef07ef36091c2 *R/check_data.R
 146dbbe1649d84f956bf46cd52c5b72b *R/crseEvent.R
 93f8668b35ce70c532091dce03a3f355 *R/sar.R
 9282c1115f6156026471e7bef3d26cf0 *THANKS
-50e5aa5f66ad03319350337bbbf81c8a *build/partial.rdb
+7bc42eee35e84256af2ca3b0f5fceb04 *build/partial.rdb
 366860f29ef456f107eee14b993a78e7 *data/demo_returns.rda
 dec0af4183e4821ffd570e9861865ca6 *data/demo_share_repurchases.rda
 49524723d417add588dda3367458623e *man/asr.Rd
 ae8014f9c46246ca4902704a0af8981e *man/crseEvent.Rd
 39e177a2308cc526ba2b1236a788dd75 *man/demo_returns.Rd
-62db90d6b47846858e45ca1024ca7e94 *man/demo_share_repurchases.Rd
+81fdb9e869ce9bd4d901e528bf92864c *man/demo_share_repurchases.Rd
 0b12e3889015667ca523921c6f64fca2 *man/sar.Rd
 a402a2b5d6ec2022e8b6aaadd9a1800c *tests/testthat.R
 c79715c64373e04a483c21c5d6194cb7 *tests/testthat/test-asr.R
